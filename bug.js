@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI to build an Android APK. The build process fails with an error message indicating that the Android SDK is not properly configured or missing some components. This can be due to several reasons, including incorrect SDK path, missing build tools, or missing Android NDK.
